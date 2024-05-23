@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on big projects with the MNCs.
 - 📫 How to reach me khwahishseth@gmail.com
 - 😄 Pronouns: khwahish.
-- ⚡ Fun fact: i am a good listener .
+- ⚡ Fun fact:  Iam a good listener .
 
 <!---
 Khwa678/Khwa678 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
