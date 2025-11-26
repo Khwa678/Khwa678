@@ -63,5 +63,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khwa678&" alt="khwa678" /></p>
 
-## 🧩 My Holopin Badges
-[![An image of @khwa678's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/khwa678)](https://holopin.io/@khwa678)
+
