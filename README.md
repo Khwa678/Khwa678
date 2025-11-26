@@ -113,9 +113,7 @@
 
 <br>
 <br>
-## 🕸️ GitHub Activity Overview
 
-## 🕒 Productive Time (Local Timezone)
 
 
 
