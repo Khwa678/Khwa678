@@ -89,4 +89,8 @@
 <p><img align="left" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=khwa678&layout=compact&theme=transparent" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-one-bice.vercel.app/api?username=khwa678&show_icons=true&theme=transparent" /></p>
+
+<br clear="both">
+
+## 🧩 My Holopin Badges  
 [![An image of @khwa678's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/khwa678)](https://holopin.io/@khwa678)
