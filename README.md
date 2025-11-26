@@ -6,6 +6,8 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - ⚡ Fun fact **I am a book Worm**
+## 🧩 My Holopin Badges
+[![An image of @khwa678's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/khwa678)](https://holopin.io/@khwa678)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
