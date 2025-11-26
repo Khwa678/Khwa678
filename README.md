@@ -46,6 +46,15 @@
 </a>
 
 </p>
+## 📊 GitHub Summary Cards
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khwa678&theme=github_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khwa678&theme=github_dark&utcOffset=5" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-per-day?username=khwa678&theme=github_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khwa678&theme=github_dark" />
 
 
 <h3 align="left">Languages and Tools:</h3>
