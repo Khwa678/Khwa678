@@ -6,8 +6,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - ⚡ Fun fact **I am a book Worm**
-## 🧩 My Holopin Badges
-[![An image of @khwa678's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/khwa678)](https://holopin.io/@khwa678)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -63,3 +62,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khwa678&show_icons=true&locale=en" alt="khwa678" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khwa678&" alt="khwa678" /></p>
+
+## 🧩 My Holopin Badges
+[![An image of @khwa678's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/khwa678)](https://holopin.io/@khwa678)
