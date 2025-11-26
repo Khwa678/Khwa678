@@ -86,7 +86,7 @@
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats-4s64hc8n7-calculators-projects-4780533c.vercel.app/api/top-langs/?username=khwa678&layout=compact&theme=transparent" /></p>
+<p><img align="left" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=khwa678&layout=compact&theme=transparent" /></p>
 
-<p><img align="center" src="https://github-readme-stats-4s64hc8n7-calculators-projects-4780533c.vercel.app/api?username=khwa678&show_icons=true&theme=transparent" /></p>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats-one-bice.vercel.app/api?username=khwa678&show_icons=true&theme=transparent" /></p>
+[![An image of @khwa678's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/khwa678)](https://holopin.io/@khwa678)
