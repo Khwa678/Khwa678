@@ -86,11 +86,7 @@
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khwa678&show_icons=true&locale=en&layout=compact" alt="khwa678" /></p>
+<p><img align="left" src="https://github-readme-stats-4s64hc8n7-calculators-projects-4780533c.vercel.app/api/top-langs/?username=khwa678&layout=compact&theme=transparent" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khwa678&show_icons=true&locale=en" alt="khwa678" /></p>
+<p><img align="center" src="https://github-readme-stats-4s64hc8n7-calculators-projects-4780533c.vercel.app/api?username=khwa678&show_icons=true&theme=transparent" /></p>
 
-
-<p><img align="left" src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs?username=khwa678&show_icons=true&locale=en&layout=compact" alt="khwa678" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats-godkingjay.vercel.app/api?username=khwa678&show_icons=true&locale=en" alt="khwa678" /></p>
