@@ -107,10 +107,7 @@
 
 
 <br clear="both">
-<br>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=khwa678&theme=github_dark" />
-<br>
-<br>
+
 ## 🧩 My Holopin Badges  
 [![An image of @khwa678's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/khwa678)](https://holopin.io/@khwa678)
 
@@ -121,7 +118,6 @@
 ## 🕒 Productive Time (Local Timezone)
 
 
-<br>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=khwa678&theme=github_dark" />
+
 
 
