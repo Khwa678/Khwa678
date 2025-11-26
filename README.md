@@ -115,9 +115,10 @@
 <br>
 ## 🕸️ GitHub Activity Overview
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=khwa678&theme=github_dark" />
+## 🕒 Productive Time (Local Timezone)
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khwa678&theme=github_dark&utcOffset=5" />
+<br>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=khwa678&theme=github_dark" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-per-day?username=khwa678&theme=github_dark" />
 
