@@ -101,9 +101,7 @@
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs?username=khwa678&show_icons=true&locale=en&layout=compact" alt="khwa678" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-godkingjay.vercel.app/api?username=khwa678&show_icons=true&locale=en" alt="khwa678" /></p>
 
 
 <br clear="both">
