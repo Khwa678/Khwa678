@@ -144,9 +144,45 @@
 ### 🚀 Destiny is always written by god and you  🚀
 
 </div>
+## 💻 Most Used Languages
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khwa678&layout=compact&theme=tokyonight" />
+</p>
 ## 🏆 Gssoc contributor
 
 <p align="center">
 <img src="https://media.licdn.com/dms/image/v2/D5622AQFm6pcpkNmUDQ/feedshare-shrink_480/B56Z3oEojjIQAk-/0/1777715022361?e=1781740800&v=beta&t=pTrrMhNqGz-MOjW6k25LcPHzIdJPefNlM2DtqDfOnV4"/?username=khwa678&theme=tokyonight&row=2&column=4" />
+</p>
+
+## 🚀 Currently Working On
+
+- 🌐 Open Source Contributions
+- ⚛️ React & Next.js Projects
+- 🤖 AI/ML Projects
+- 💡 Data Structures & Algorithms
+- 🏆 LeetCode and CodeChef Practice
+
+
+## 🔗 Coding Profiles
+
+- LeetCode: https://leetcode.com/u/Khw100_/
+- CodeChef: https://www.codechef.com/users/neat_wasp_30
+- HackerRank: https://www.hackerrank.com/khwahish_23b0121
+- Codeforces: https://codeforces.com/profile/khwahish_k
+
+- ## 🎯 Goals for 2026
+
+- ⭐ Reach 300+ LeetCode Problems
+- ⭐ Achieve 3★ on CodeChef
+- ⭐ Contribute to Major Open Source Projects
+- ⭐ Build AI/ML Portfolio Projects
+- ⭐ Secure Placement in a Top MNC
+
+- ## ☕ Support Me
+
+<p>
+  <a href="https://github.com/khwa678">
+    <img src="https://img.shields.io/badge/GitHub-Follow-blue?style=for-the-badge&logo=github">
+  </a>
 </p>
