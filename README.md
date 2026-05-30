@@ -112,8 +112,41 @@
 <br>
 <br>
 
+## 🔥 GitHub Streak Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khwa678&theme=tokyonight" />
+</p>
 
 
 
+## 📈 Contribution Graph
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khwa678&theme=tokyo-night" />
+</p>
 
+## 💻 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Khw100_?theme=dark&font=Karma" />
+</p>
+## 🏆 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Khwa678&show_icons=true&theme=tokyonight" />
+</p>
+
+## 💫 Quote
+
+<div align="center">
+
+### 🚀 Destiny is always written by god and you  🚀
+
+</div>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=khwa678&theme=tokyonight&row=2&column=4" />
+</p>
