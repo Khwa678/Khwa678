@@ -115,7 +115,7 @@
 ## 🔥 GitHub Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khwa678&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khwa678&theme=tokyonight" />
 </p>
 
 
@@ -145,8 +145,8 @@
 
 </div>
 
-## 🏆 GitHub Trophies
+## 🏆 Gssoc contributor
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=khwa678&theme=tokyonight&row=2&column=4" />
+<img src="https://media.licdn.com/dms/image/v2/D5622AQFm6pcpkNmUDQ/feedshare-shrink_480/B56Z3oEojjIQAk-/0/1777715022361?e=1781740800&v=beta&t=pTrrMhNqGz-MOjW6k25LcPHzIdJPefNlM2DtqDfOnV4"/?username=khwa678&theme=tokyonight&row=2&column=4" />
 </p>
