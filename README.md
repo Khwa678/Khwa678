@@ -115,7 +115,7 @@
 ## 🔥 GitHub Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khwa678&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Khwa678&theme=tokyonight" />
 </p>
 
 
