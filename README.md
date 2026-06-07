@@ -154,20 +154,20 @@
 <p align="center">
 <img src="https://media.licdn.com/dms/image/v2/D5622AQFm6pcpkNmUDQ/feedshare-shrink_480/B56Z3oEojjIQAk-/0/1777715022361?e=1781740800&v=beta&t=pTrrMhNqGz-MOjW6k25LcPHzIdJPefNlM2DtqDfOnV4"/?username=khwa678&theme=tokyonight&row=2&column=4" />
 </p>
-## 🏅 GSSoC 2026 Badges
+## 🏅 GSSoC 2026 Achievements
 
 <p align="center">
-  <img src="badges/gssoc-badge-role_contributor.png" width="200" alt="Contributor Badge"/>
-  <img src="badges/gssoc-badge-point_scorer.png" width="200" alt="Point Scorer Badge"/>
+  <img src="./badges/gssoc-badge-role_contributor.png" width="180" alt="Contributor Badge"/>
+  <img src="./badges/gssoc-badge-point_scorer.png" width="180" alt="Point Scorer Badge"/>
 </p>
 
 <p align="center">
-  <img src="badges/gssoc-badge-profile_complete.png" width="200" alt="Profile Complete Badge"/>
-  <img src="badges/gssoc-badge-first_steps.png" width="200" alt="First Step Badge"/>
+  <img src="./badges/gssoc-badge-profile_complete.png" width="180" alt="Profile Complete Badge"/>
+  <img src="./badges/gssoc-badge-first_steps.png" width="180" alt="First Step Badge"/>
 </p>
 
 <p align="center">
-  <img src="badges/gssoc-badge-rising_star.png" width="200" alt="Rising Star Badge"/>
+  <img src="./badges/gssoc-badge-rising_star.png" width="180" alt="Rising Star Badge"/>
 </p>
 
 ## 🚀 Currently Working On
