@@ -201,3 +201,9 @@
     <img src="https://img.shields.io/badge/GitHub-Follow-blue?style=for-the-badge&logo=github">
   </a>
 </p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Khwa678/Khwa678/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation">
+</p>
