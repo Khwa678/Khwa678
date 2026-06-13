@@ -169,7 +169,27 @@
 <p align="center">
   <img src="./gssoc-badge-rising_star.png" width="180" alt="Rising Star Badge"/>
 </p>
+## 🏅 GSSoC 2026 Badges
 
+<p align="center">
+  <img src="./gssoc-badge-role_contributor%20(1).png" width="180" alt="Contributor Badge"/>
+  <img src="./gssoc-badge-point_scorer%20(1).png" width="180" alt="Point Scorer Badge"/>
+</p>
+
+<p align="center">
+  <img src="./gssoc-badge-profile_complete.png" width="180" alt="Profile Complete Badge"/>
+  <img src="./gssoc-badge-first_steps.png" width="180" alt="First Steps Badge"/>
+</p>
+
+<p align="center">
+  <img src="./gssoc-badge-rising_star.png" width="180" alt="Rising Star Badge"/>
+  <img src="./gssoc-badge-bounty_hunter.png" width="180" alt="Bounty Hunter Badge"/>
+</p>
+
+<p align="center">
+  <img src="./gssoc-badge-consistent.png" width="180" alt="Consistent Badge"/>
+  <img src="./gssoc-badge-getting_started.png" width="180" alt="Getting Started Badge"/>
+</p>
 ## 🚀 Currently Working On
 
 - 🌐 Open Source Contributions
@@ -189,7 +209,7 @@
 - ## 🎯 Goals for 2026
 
 - ⭐ Reach 300+ LeetCode Problems
-- ⭐ Achieve 3★ on CodeChef
+- ⭐ Achieve ★ on CodeChef
 - ⭐ Contribute to Major Open Source Projects
 - ⭐ Build AI/ML Portfolio Projects
 - ⭐ Secure Placement in a Top MNC
@@ -202,8 +222,4 @@
   </a>
 </p>
 
-## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Khwa678/Khwa678/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation">
-</p>
