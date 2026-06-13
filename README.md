@@ -149,26 +149,8 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khwa678&layout=compact&theme=tokyonight" />
 </p>
-## 🏆 Gssoc contributor
 
-<p align="center">
-<img src="https://media.licdn.com/dms/image/v2/D5622AQFm6pcpkNmUDQ/feedshare-shrink_480/B56Z3oEojjIQAk-/0/1777715022361?e=1781740800&v=beta&t=pTrrMhNqGz-MOjW6k25LcPHzIdJPefNlM2DtqDfOnV4"/?username=khwa678&theme=tokyonight&row=2&column=4" />
-</p>
-## 🏅 GSSoC 2026 Badges
 
-<p align="center">
-  <img src="./gssoc-badge-role_contributor%20(1).png" width="180" alt="Contributor Badge"/>
-  <img src="./gssoc-badge-point_scorer%20(1).png" width="180" alt="Point Scorer Badge"/>
-</p>
-
-<p align="center">
-  <img src="./gssoc-badge-profile_complete.png" width="180" alt="Profile Complete Badge"/>
-  <img src="./gssoc-badge-first_steps.png" width="180" alt="First Steps Badge"/>
-</p>
-
-<p align="center">
-  <img src="./gssoc-badge-rising_star.png" width="180" alt="Rising Star Badge"/>
-</p>
 ## 🏅 GSSoC 2026 Badges
 
 <p align="center">
