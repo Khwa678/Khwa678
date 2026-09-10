@@ -190,7 +190,7 @@
 
 - ## 🎯 Goals for 2026
 
-- ⭐ Reach 300+ LeetCode Problems
+- ⭐ Reach 400+ LeetCode Problems
 - ⭐ Achieve ★ on CodeChef
 - ⭐ Contribute to Major Open Source Projects
 - ⭐ Build AI/ML Portfolio Projects
@@ -204,4 +204,45 @@
   </a>
 </p>
 
+## 💼 Experience
 
+### Associate python developer — RD Solutions
+**2026**
+
+- Worked on real-world software development projects.
+- Developed and maintained application features.
+- Collaborated with team members to implement and improve solutions.
+- Worked with modern development tools and technologies.
+
+**Tech:** Python • React • JavaScript • ...
+## 👩‍💻 About Me
+
+- 🎓 Computer Science student passionate about building real-world software.
+- 💻 Interested in **Full-Stack Development, AI/ML, and Data Structures & Algorithms**.
+- 🚀 Currently building projects with **React, Next.js, Python, and Machine Learning**.
+- 🌱 Actively contributing to **Open Source** and improving my problem-solving skills.
+- 🧠 Solving problems on **LeetCode, CodeChef, and Codeforces**.
+- 🎯 Goal: Become a strong Software Engineer and contribute to impactful products at a top MNC.
+
+## 🏆 Achievements
+
+- 🥇 Selected for GSSoC 2026 and earned 16 badges
+- 🌟 Earned GSSoC badges for contributions and consistency
+- 💻 Solved 400+ LeetCode problems
+- 🚀 Contributed to Open Source projects
+- 🏆 Participated in coding contests and hackathons
+
+## 🌱 Currently Learning
+
+- ⚛️ Advanced React & Next.js
+- 🐍 Advanced Python
+- 🤖 Machine Learning & Deep Learning
+- 🧠 System Design
+- ☁️ Cloud & DevOps
+- 🧩 Advanced DSA
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Khwa678/Khwa678/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
